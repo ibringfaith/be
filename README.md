@@ -3,6 +3,8 @@ This repository contains data from google spreadsheets on the amount of streams 
 
 ## Total streams as of 15 January 2022: 154,076,196
 
+#### Tracks: Life Goes On, Fly To My Room, Blue & Grey, Skit, Telepathy, Dis-ease, Stay, Dynamite
+
 ### Life Goes On
 ![Streams of Life Goes On on the US Daily Spotify chart](lifegoeson.PNG)
 
