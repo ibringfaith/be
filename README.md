@@ -42,3 +42,6 @@ This repository contains data from google spreadsheets on the amount of streams 
 ![Streams of Dynamite on the US Daily Spotify chart](dynamitethirteen.PNG)
 ![Streams of Dynamite on the US Daily Spotify chart](dynamitefourteen.PNG)
 ![Streams of Dynamite on the US Daily Spotify chart](dynamitefifteen.PNG)
+
+### BE
+![Streams of BE on the US Daily Spotify chart](betotal.PNG)
