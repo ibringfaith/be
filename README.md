@@ -1,5 +1,5 @@
 # BE
-This repository contains data from google spreadsheets on the amount of streams BE has on US daily Spotify.
+This repository contains data from google spreadsheets on the amount of streams the album BE has on US daily Spotify.
 
 ## Total streams as of 15 January 2022: 154,076,196
 
